@@ -1,6 +1,6 @@
 # Asset Processor 🎮
 
-A Python tool for automatic preprocessing of 2D assets (images), designed for **game development pipelines** — especially mobile game studios such as Playrix.
+A Python tool for automatic preprocessing of 2D assets (images), designed for **game development pipelines** 
 
 The goal is to automate repetitive steps in asset preparation before importing them into a game engine or internal tools:
 
